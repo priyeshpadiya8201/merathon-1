@@ -1,0 +1,37 @@
+.centered {
+    position: absolute;
+    top: 4%;
+    left: 53%;
+    transform: translate(-50%, -50%);
+    color: rgb(1, 98, 184);
+  }
+  .example2 {
+    position: absolute;
+    transform: translate();
+    border-radius: 35px 0px;
+    left: 250px;
+    top: 88%;
+    font-size: 70px;
+    color: rgb(255, 255, 255);
+    padding: 10px 150px 10px 150px;
+    background-image: linear-gradient(to bottom right, rgb(42, 106, 226), rgb(14, 55, 105));
+    
+  }
+  #heding
+  {
+    position: absolute;
+    top: 614px;
+    left: 27%;
+    transform: translate();
+    color: white;
+    background-color: rgb(22, 196, 170);
+    font-size: 30px;
+    padding: 0px 150px 0px 150px;
+  }
+  #icon
+  {
+    color: rgb(108, 105, 100);
+    size: 50px;
+  }
+  
+    
