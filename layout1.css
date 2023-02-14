@@ -1,6 +1,6 @@
 .centered {
     position: absolute;
-    top: 4%;
+    top: 6%;
     left: 53%;
     transform: translate(-50%, -50%);
     color: rgb(1, 98, 184);
@@ -9,8 +9,8 @@
     position: absolute;
     transform: translate();
     border-radius: 35px 0px;
-    left: 250px;
-    top: 88%;
+    left: 190px;
+    top: 95%;
     font-size: 70px;
     color: rgb(255, 255, 255);
     padding: 10px 150px 10px 150px;
@@ -20,8 +20,8 @@
   #heding
   {
     position: absolute;
-    top: 614px;
-    left: 27%;
+    top: 601px;
+    left: 23%;
     transform: translate();
     color: white;
     background-color: rgb(22, 196, 170);
@@ -33,5 +33,4 @@
     color: rgb(108, 105, 100);
     size: 50px;
   }
-  
-    
+ 
